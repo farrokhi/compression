@@ -1,2 +1,3 @@
-- Add lzma
-- Add lzop
+- [ ] Describe test conditions and tools we used (including version numbers)
+- [ ] Add lzma
+- [ ] Add lzop
